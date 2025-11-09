@@ -1,1 +1,1 @@
-# just a example
+# 代币信息
